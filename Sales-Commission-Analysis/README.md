@@ -25,7 +25,7 @@ category.
 
 A specialized chart used to ensure that commission payouts are scaling correctly with net 
 profitability. 
-![Profit vs. Commission Analysis](images/profit_vs_commission_dashboard.png)
+![Profit vs. Commission Analysis](images/Profit_vs_commission_dashboard.png)
 
 ### 2. Revenue Mix
 
