@@ -21,19 +21,37 @@ category.
 
 ## Dashboard Gallery
 
-### 1. Commission vs. Profitability
+### 1. Sales Leaderboard (Net Profit by Person)
 
-A specialized chart used to ensure that commission payouts are scaling correctly with net 
-profitability. 
+This dashboard identifies high-value assets by ranking the sales team based on their direct 
+contribution to net margin rather than just gross volume.
+
+- Key Feature: Integrated "Area" Slicers allow for instantaneous regional comparative 
+  analysis.
+- Business Insight: Isolates net profit after accounting for $625 base salaries and 50%
+  commission structures to show true "bottom-line" value.
+  
 ![Profit vs. Commission Analysis](images/Profit_vs_commission_dashboard.png)
 
-### 2. Revenue Mix
+### Revenue Mix (Product vs. Total Revenue)
 
-A visualization of which products (Tables, Chairs, Cabinets, TV Stands) are driving growth
-in each specific territory. 
+A "deep dive" visualization that provides a granular breakdown of product-level contribution.
+
+- Key Feature: Utilizes dual-axis charts to overlay specific category revenue (e.g., Tables,
+  Chairs) against total sales trends.
+- Business Insight: Identifies "anchor products" that drive the majority of a salesperson's
+  success, aiding in inventory strategy.
+
 ![Product Volume & Revenue](images/Total_rev_vs_each_item_dashboard.png)
 
-### 3. Regional Volume
+### Regional Volume (Unit Sales by Territory)
+
+A geospatial performance analysis tracking market penetration across East, North, South, and 
+West regions.
+
+- Key Feature: Stacked area and column charts visualize the "volume buildup" of unit sales.
+- Business Insight: Highlights the West region as the top performer for Tables (82 units)
+- and Cabinets (80 units).
 
 ![Profit Ranking Dashboard](images/Product_revenue_vs_sold_dashboard.png)
 
