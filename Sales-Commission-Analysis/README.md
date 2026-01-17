@@ -33,6 +33,8 @@ contribution to net margin rather than just gross volume.
   
 ![Profit vs. Commission Analysis](images/Profit_vs_commission_dashboard.png)
 
+
+
 ### 2. Revenue Mix (Product vs. Total Revenue)
 
 A "deep dive" visualization that provides a granular breakdown of product-level contribution.
@@ -44,6 +46,8 @@ A "deep dive" visualization that provides a granular breakdown of product-level 
 
 ![Product Volume & Revenue](images/Total_rev_vs_each_item_dashboard.png)
 
+
+
 ### 3. Regional Volume (Unit Sales by Territory)
 
 A geospatial performance analysis tracking market penetration across East, North, South, and 
@@ -54,6 +58,7 @@ West regions.
 - and Cabinets (80 units).
 
 ![Profit Ranking Dashboard](images/Product_revenue_vs_sold_dashboard.png)
+
 
 
 ## Data Insights & Performance
