@@ -42,13 +42,15 @@ in each specific territory.
 
 Based on the analysis of $118,459.85 in total revenue, the following insights were discovered:
 
-Top Performers (by Net Profit)
-Salesperson,Net Profit,Total Revenue
-Wilbur Lowe,$900.38,"$3,050.75"
-Garrett Simons,$877.40,"$3,004.80"
-Natasha Harrington,$835.45,"$2,920.90"
-Darlene Hill,$786.00,"$2,891.65"
-Grand Total,"$7,506.23","$118,459.85"
+### Top Performers (by Net Profit)
+
+| Salesperson | Net Profit | Total Revenue |
+| :--- | :--- | :--- |
+| **Wilbur Lowe** | $900.38 | $3,050.75 |
+| **Garrett Simons** | $877.40 | $3,004.80 |
+| **Natasha Harrington** | $835.45 | $2,920.90 |
+| **Darlene Hill** | $786.00 | $2,891.65 |
+| **Grand Total** | **$7,506.23** | **$118,459.85** |
 
 ### Regional Highlights
 
