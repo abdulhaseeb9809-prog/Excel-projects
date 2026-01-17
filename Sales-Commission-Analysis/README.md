@@ -25,17 +25,17 @@ category.
 
 A specialized chart used to ensure that commission payouts are scaling correctly with net 
 profitability. 
-![Profit vs. Commission Analysis](images/profit vs commission dashboard.png)
+![Profit vs. Commission Analysis](images/profit_vs_commission_dashboard.png)
 
 ### 2. Revenue Mix
 
 A visualization of which products (Tables, Chairs, Cabinets, TV Stands) are driving growth
 in each specific territory. 
-![Product Volume & Revenue](images/Total rev vs each item dashboard.png)
+![Product Volume & Revenue](images/Total_rev_vs_each_item_dashboard.png)
 
 ### 3. Regional Volume
 
-![Profit Ranking Dashboard](images/Screenshot 2026-01-17 130257.png)
+![Profit Ranking Dashboard](images/Product_revenue_vs_sold_dashboard.png)
 
 
 ## Data Insights & Performance
