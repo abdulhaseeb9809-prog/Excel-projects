@@ -45,7 +45,7 @@ Built a business-focused dashboard to transform raw sales data into actionable i
 
 (Add your screenshot here)
 
-![Dashboard Preview](Dashboard/dashboard-preview.png)
+![Dashboard Preview](Dashboard/Screenshot 2026-05-10 133729.png)
 
 👨‍💻 Author
 
