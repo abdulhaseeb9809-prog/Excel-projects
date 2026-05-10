@@ -67,7 +67,7 @@ Developed a business-focused Excel dashboard that converts raw transactional dat
 
 # 🖼 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard-preview.png)
+![Dashboard Preview](Dashboard/Coffee-sales-dashboard.png)
 
 ---
 
@@ -77,10 +77,10 @@ Developed a business-focused Excel dashboard that converts raw transactional dat
 coffee-sales-dashboard-excel/
 │
 ├── Dashboard/
-│   └── Coffee_Sales_Dashboard.xlsx
+│   └── Coffee-sales-dashboard.png
 │
-├── Images/
-│   └── dashboard-preview.png
+├── Coffee order project.xlsx
+│  
 │
 └── README.md
 ```
