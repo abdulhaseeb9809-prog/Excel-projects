@@ -1,52 +1,92 @@
-☕ Coffee Sales Dashboard | Excel
-📌 Overview
+# ☕ Coffee Sales Dashboard | Excel Project
 
-Developed an interactive Excel dashboard to analyze coffee sales performance, customer behavior, and product trends across multiple countries.
+## 📌 Overview
 
-The dashboard provides insights into:
+This project presents an interactive Excel dashboard designed to analyze coffee sales performance, customer purchasing behavior, and product trends across multiple countries.
 
-Sales trends over time
-Product category performance
-Customer purchasing patterns
-Geographic sales distribution
-🚀 Key Features
-📈 Sales Trend Analysis
-Monthly and yearly sales tracking
-Comparative analysis across coffee types
-🌍 Sales by Country
-Identified top-performing regions
-Compared revenue contribution across countries
-👥 Customer Insights
-Highlighted top customers based on sales
-Analyzed loyalty card impact on purchasing behavior
-🎛 Interactive Filters
+The dashboard transforms raw sales data into meaningful business insights using visual reporting techniques and interactive filtering.
+
+---
+
+# 🚀 Key Features
+
+## 📈 Sales Trend Analysis
+
+* Monthly and yearly sales tracking
+* Comparative analysis across coffee categories
+* Time-based sales performance monitoring
+
+## 🌍 Sales by Country
+
+* Country-wise revenue comparison
+* Identification of top-performing regions
+* Geographic sales distribution analysis
+
+## 👥 Customer Insights
+
+* Top customer identification
+* Customer spending analysis
+* Loyalty card usage analysis
+
+## 🎛 Interactive Dashboard Filters
 
 Implemented slicers for:
 
-Date range
-Product size
-Loyalty card status
-Roast type
-🛠 Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Dashboard Design
-📊 Dashboard Insights
-United States generated the highest sales revenue
-Loyalty card users showed stronger purchasing consistency
-Certain roast types performed better across specific regions
-🎯 Outcome
+* Order Date
+* Product Size
+* Loyalty Card Status
+* Roast Type
 
-Built a business-focused dashboard to transform raw sales data into actionable insights, improving reporting and decision-making.
+---
 
-🖼 Dashboard Preview
+# 🛠 Tools & Techniques Used
 
-(Add your screenshot here)
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Dashboard Design
+* Data Visualization
 
-![Dashboard Preview](Dashboard/Screenshot 2026-05-10 133729.png)
+---
 
-👨‍💻 Author
+# 📊 Key Insights
 
-Abdul Haseeb
+* United States generated the highest overall revenue
+* Loyalty card customers showed stronger repeat purchasing behavior
+* Certain roast types performed significantly better across regions
+* Interactive filtering improved analysis flexibility and usability
+
+---
+
+# 🎯 Business Outcome
+
+Developed a business-focused Excel dashboard that converts raw transactional data into actionable insights, supporting sales monitoring and business decision-making.
+
+---
+
+# 🖼 Dashboard Preview
+
+![Dashboard Preview](Images/dashboard-preview.png)
+
+---
+
+# 📂 Project Structure
+
+```text
+coffee-sales-dashboard-excel/
+│
+├── Dashboard/
+│   └── Coffee_Sales_Dashboard.xlsx
+│
+├── Images/
+│   └── dashboard-preview.png
+│
+└── README.md
+```
+
+---
+
+# 👨‍💻 Author
+
+**Abdul Haseeb**
